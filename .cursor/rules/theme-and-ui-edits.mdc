@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+Make sure that you never change the ui or theme of any componenent unless specifically mentioned. Do not unnecessarily make changes to button size, shape, font type, size shape, the contents of text, icons, etc. 
+- You can @ files here
+- You can use markdown but dont have to
